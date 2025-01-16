@@ -1,3 +1,6 @@
 This is Index
 ========
 Updated to see the changes for merge
+
+-----
+Updation from the GitBash
