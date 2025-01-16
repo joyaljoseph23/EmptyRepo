@@ -1,1 +1,3 @@
 This is controller from the default branch
+
+Updating from the github UI to see the merge operation in git
